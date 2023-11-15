@@ -5,5 +5,5 @@ Transformer Decoder-only (with causal self-attention) for ARMA process forecasti
 `generate_data_with_statsmodels.ipynb`
 
 
-- notebook for training and testing the model.
+- Notebook for training and testing the model.
 `ARMA_transformer.ipynb`
